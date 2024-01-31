@@ -1,0 +1,37 @@
+<!-- ======= Navbar ======= -->
+<div class="collapse navbar-collapse custom-navmenu" id="main-navbar">
+    <div class="container py-2 py-md-5">
+        <div class="row align-items-start">
+            <div class="col-md-2">
+                <ul class="custom-menu">
+                    <li class="active"><a href="index.html"><%= navbar_content.home%></a></li>
+                    <li><a href="about.html"><a href="index.html"><%= navbar_content.about%></a></li>
+                    <li><a href="about.html"><a href="index.html"><%= navbar_content.blog%></a></li>
+                    <li><a href="services.html"><a href="index.html"><%= navbar_content.services%></a></li>
+                    <li><a href="works.html"><a href="index.html"><%= navbar_content.works%></a></li>
+                    <li><a href="contact.html"><a href="index.html"><%= navbar_content.contact%></a></li>
+                </ul>
+            </div>
+            <div class="col-md-8 d-none d-md-block">
+                <h3>Hire Me</h3>
+                <p><%= static_content["hire"][&language]["description"].to_string().replace("\"","")%><br> <a href="#">zulfikralahmudin@gmail.com</a></p>
+            </div>
+            <div className="col-md-2 ">
+                <select className="form-select" aria-label="Default select example">
+                    <option value="indonesia">Indonesia</option>
+                    <option value="english">English</option>
+                </select>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<nav class="navbar navbar-light custom-navbar">
+    <div class="container">
+        <a class="navbar-brand" href="index.html">Zulfikra</a>
+        <a href="#" class="burger" data-bs-toggle="collapse" data-bs-target="#main-navbar">
+            <span></span>
+        </a>
+    </div>
+</nav>

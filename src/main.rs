@@ -7,11 +7,13 @@ use actix_web::{http, App, HttpServer, web};
 use controllers::home;
 use dotenv::dotenv;
 use crate::config::database::establish_connection;
+use actix_files as fs;
 
 #[actix_web::main]
 async fn main() -> std::io::Result<()> {
     dotenv().ok();
     HttpServer::new(move || {
+        // Cors
         let cors = Cors::default()
             .allowed_origin("http://localhost:3000")
             .allowed_methods(vec!["GET", "POST", "DELETE"])
@@ -21,6 +23,8 @@ async fn main() -> std::io::Result<()> {
         App::new()
             .wrap(cors) 
             .app_data(web::Data::new(establish_connection().clone()))
+            .service(fs::Files::new("/assets","src/assets").show_files_listing())
+            // Routes
             .service(home::index)
     })
     .bind(("0.0.0.0", 8080))?

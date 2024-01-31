@@ -1,0 +1,208 @@
+{
+    "navbar": {
+        "indonesia": {
+            "home": "Home",
+            "blog": "Blog",
+            "about": "Tentang Kami",
+            "services": "Jasa",
+            "works": "Portfolio",
+            "contact": "Kontak Kami"
+        },
+        "english": {
+            "home": "Home",
+            "blog": "Blog",
+            "about": "About",
+            "services": "services",
+            "works": "Works",
+            "contact": "Contact"
+        }
+    },
+    "hire": {
+        "indonesia": {
+            "hire_me": "Hire me",
+            "description": "Seorang Praktisi perangkat lunak yang serba bisa yang dapat bekerja baik sebagai bagian dari tim maupun secara mandiri. Memiliki keingintahuan dalam belajar yang tinggi dengan kemampuan untuk mencapai tonggak proyek yang penting. Sedang mencari peran sebagai engineer di perusahaan internasional yang bergerak di berbagai industri"
+        },
+        "english": {
+            "hire_me": "Hire me",
+            "description": "A versatile software engineer who works well both as part of a team and independently. Highly educated with the capability to deliver on key project milestones. Seeking to secure an engineering role with an internationally astute firm involved in any industry"
+        }
+    },
+    "about": {
+        "indonesia": {
+            "hi": "Hai!",
+            "name": "Kami Zulfikra Lahmudin"
+        },
+        "english": {
+            "hi": "Hi!",
+            "name": "i Am Zulfikra Lahmudin"
+        }
+    },
+    "services": {
+        "indonesia": {
+            "description": "Kami menghadirkan beragam jasa yang menarik dan bermanfaat bagi Anda",
+            "web_app": {
+                "title": "Aplikasi Berbasis Mobile",
+                "description": "Kami menawarkan pembuatan aplikasi berbasis web sebagai berikut.",
+                "products": [
+                    "Company profile",
+                    "Toko Online",
+                    "REST API",
+                    "Asesment",
+                    "Bisnis support"
+                ]
+            },
+            "cad": {
+                "title": "Desain Engineering & CAD",
+                "description": "Kami juga menawarkan desain engineering sebagai berikut.",
+                "products": [
+                    "Desain interior",
+                    "Desain Skema Speaker",
+                    "Desain Perencanaan pembuatan furnitur",
+                    "Desain pembuatan perangkat pendukung teknik listrik dan elektronik"
+                ]
+            },
+            "diy": {
+                "title": "Produk DIY",
+                "description": "Kami menawarkan produk buatan tangan yang menarik buat anda.",
+                "products": [
+                    "Box Speaker",
+                    "Kabel Listrik dan Audio",
+                    "Hiasan Furnitur"
+                ]
+            },
+            "music": {
+                "title": "Music Production",
+                "description": "Kami juga menawarkan jasa dalam mendukung produksi musik sebagai berikut.",
+                "products": [
+                    "Aransemen lagu",
+                    "Rekaman lagu",
+                    "Mixing",
+                    "Mastering",
+                    "Rental sound system"
+                ]
+            }
+        },
+        "english": {
+            "description": "We offer a variety of interesting and beneficial services for you.",
+            "web_app": {
+                "title": "Web and Mobile Applications",
+                "description": "We offer web-based application development services as follows.",
+                "products": [
+                    "Company profile",
+                    "E-Comerce",
+                    "REST API",
+                    "Assessments",
+                    "Bisnis support"
+                ]
+            },
+            "cad": {
+                "title": "Engineering Design & CAD",
+                "description": "We also offer engineering design services as follows.",
+                "products": [
+                    "Interior design ",
+                    "speaker schematic design",
+                    "furniture manufacturing planning and design.",
+                    "design services for the creation of electrical and electronic engineering support devices."
+                ]
+            },
+            "diy": {
+                "title": "DIY (Do-It-Yourself) Products",
+                "description": "We offer unique handmade(DIY) products for you.",
+                "products": [
+                    "speaker boxes",
+                    "high-quality electrical and audio cables for various applications",
+                    "furniture accessories"
+                ]
+            },
+            "music": {
+                "title": "Music Production",
+                "description": "We also offer services to support music production. Here are some of the services we provide",
+                "products": [
+                    "Song Arrangements",
+                    "Song Recording",
+                    "Mixing",
+                    "Mastering",
+                    "Rental sound system"
+                ]
+            }
+        }
+    },
+    "service": {
+        "indonesia": {
+            "my_service": "Layanan Jasa dan Produk",
+            "description": "Kami memiliki beberapa keahlian dan produk yang mungkin bisa membantu bisnis anda seperti berikut.",
+            "web_app": {
+                "title": "Website dan aplikasi berbasis web",
+                "description": "Kami memiliki kemampuan dalam membuat aplikasi berbasis web menggunakan teknologi terbaru seperti Express.js, Next.js, Bootstrap, dan CSS3. Dengan demikian, aplikasi yang Kami bangun memiliki performa yang optimal dan dapat digunakan dalam berbagai bidang seperti E-Commerce, Profil Perusahaan, dan lain-lain."
+            },
+            "mobile_app": {
+                "title": "Aplikasi Berbasis Mobile",
+                "description": "Kami memiliki kemampuan dalam mengembangkan aplikasi mobile secara online maupun offline dengan menggunakan teknologi terkini seperti React Native. Dengan menggunakan teknologi ini, aplikasi yang Kami bangun dapat berjalan pada kedua platform sekaligus, yaitu iOS dan Android. Kemampuan ini memungkinkan Kami untuk menciptakan aplikasi yang fleksibel dan dapat diakses oleh pengguna di berbagai perangkat."
+            },
+            "cad": {
+                "title": "CAD",
+                "description": "CAD (Computer-Aided Design) adalah metode desain teknik yang menggunakan komputer. Kami memiliki keahlian dalam merancang teknik menggunakan aplikasi FREECAD dan Blender. Dengan bantuan kedua aplikasi tersebut, Kami dapat menciptakan desain yang menarik dan inovatif."
+            },
+            "diy": {
+                "title": "Produk DIY (Soon)",
+                "description": "Jelajahi koleksi produk eksklusif buatan Kami yang pastinya menarik bagi Anda. Temukan speaker aktif berkualitas, beragam kabel audio premium, dan power amplifier yang handal untuk memenuhi kebutuhan audio Anda."
+            }
+        },
+        "english": {
+            "my_service": "My Services",
+            "description": "I have some skills and products that might be able to help your business, such as the following.",
+            "web_app": {
+                "title": "Websites and web-based applications.",
+                "description": "I have the ability to create web-based applications using the latest technologies such as Express.js, Next.js, Bootstrap, and CSS3. As a result, the applications I build have optimal performance and can be utilized in various fields such as E-Commerce, Company Profiles, and others."
+            },
+            "mobile_app": {
+                "title": "Mobile App",
+                "description": "I have the ability to develop both online and offline mobile applications using the latest technologies such as React Native. By utilizing this technology, the applications I build can run on both iOS and Android platforms simultaneously. This capability enables me to create flexible applications that can be accessed by users on various devices."
+            },
+            "cad": {
+                "title": "CAD",
+                "description": "CAD (Computer-Aided Design) is a method of technical design that utilizes computer technology. I have expertise in designing engineering using applications like FREECAD and Blender. With the help of these two applications, I can create captivating and innovative designs."
+            },
+            "diy": {
+                "title": "DIY (Soon)",
+                "description": "Explore my exclusive collection of products that are sure to captivate you. Discover high-quality active speakers, various premium audio cables, and reliable power amplifiers to meet your audio needs."
+            }
+        }
+    },
+    "about_me": {
+        "indonesia": {
+            "about": "Tentang Kami",
+            "description": "Dengan pengalaman sebagai software engineer selama 4 tahun, Kami semakin terampil dalam bekerja di bidang ini. Kami memiliki pengalaman dalam pengembangan web, aplikasi berbasis Android, dan pengembangan back-end. Selain itu, Kami juga memiliki pengalaman di bidang lain seperti System Administrator, Designer Engineering, dan System Analyst. Dengan kemampuan ini, Kami dapat bekerja baik secara mandiri maupun dalam tim. Kami juga memiliki keinginan yang kuat untuk terus belajar hal-hal baru."
+        },
+        "english": {
+            "about": "About me",
+            "description": "With 4 years of experience as a software engineer, I have become more mature in this field. I have experience in web development, Android application development, and back-end development. Additionally, I have experience in other areas such as system administration, engineering design, and system analysis. With these skills, I am able to work both independently and as part of a team. I also have a strong desire to continuously learn new things."
+        }
+    },
+    "contact": {
+        "indonesia": {
+            "contact": "Kontak",
+            "form": {
+                "name": "Nama Lengkap",
+                "email": "Email",
+                "subject": "",
+                "message": "Pesan",
+                "send_message": "Kirim pesan",
+                "address": "Alamat",
+                "phone": "Nomor Telp"
+            }
+        },
+        "english": {
+            "contact": "Contact me",
+            "form": {
+                "name": "Your email",
+                "email": "Email",
+                "subject": "",
+                "message": "Message",
+                "send_message": "Send Message",
+                "address": "Address",
+                "phone": "Phone"
+            }
+        }
+    }
+}
